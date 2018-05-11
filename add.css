@@ -1,0 +1,48 @@
+body {
+     font: 13px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     background-image: url("https://hdbackgroundspot.com//storage/upload/abstract-white-background/abstract-white-background-3.png");
+     background-size:cover;
+     text-align:center;
+     background-repeat:no-repeat;
+}
+ .main {
+     margin: 5% auto;
+     width: 25%;
+     font-family: 'Verdana', sans-serif;
+}
+ .sub-main input[type="date"] {
+     outline: none;
+     font-size: 12px;
+     margin: 2px 0px 8px 8px;
+     color: black;
+     padding: 15px 30px;
+     border: none;
+     border-radius: 5px;
+     width: 50%;
+     font-family: Palatino, Helvetica, sans-serif;
+}
+ .sub-main input[type="text"] {
+     outline: none;
+     font-size: 12px;
+     margin: 2px 0px 8px 8px;
+     color: black;
+     padding: 15px 30px;
+     border: none;
+     border-radius: 5px;
+     width: 50%;
+     font-family: Palatino, Helvetica, sans-serif;
+}
+ .sub-main input[type="submit"] {
+     color: red;
+     background:black;
+     width: 200px;
+     display: inline-block;
+     border: none;
+     padding: 7px 5px;
+     font-size: 15px;
+     border-radius: 10px;
+     margin: 17px;
+     font-family: Arial, Helvetica, sans-serif;
+     cursor:pointer;
+     text-transform:uppercase;
+}
